@@ -18,7 +18,15 @@ const theBeatlesPlay = (musician, instrument) => {
 };
 */
 
+function johnLennonFacts(facts) {
+  let i = 0;
+  let array = [];
+  while (i < facts.length) {
+    array.push(`${facts[i]}!!!`);
+    i++;
+}
 
+/*
 const johnLennonFacts = (facts) => {
   let i = 0;
   let array = [];
@@ -28,6 +36,7 @@ const johnLennonFacts = (facts) => {
   }
   return array;
 };
+*/
 
 function iLoveTheBeatles(i) {
   let array = [];
