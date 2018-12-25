@@ -40,12 +40,12 @@ const johnLennonFacts = (facts) => {
 };
 */
 
-function iLoveTheBeatles(i) {
+function iLoveTheBeatles(n) {
   let arr = [];
   do {
     arr.push("I love the Beatles!");
-    i++;
-  } while (i < 15);
+    n++;
+  } while (n < 15);
   return arr;
 }
 
