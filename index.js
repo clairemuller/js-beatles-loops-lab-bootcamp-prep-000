@@ -24,7 +24,7 @@ var iLoveTheBeatles = (num) = {
 };
 */
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(num) {
   
 }
 
