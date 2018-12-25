@@ -1,5 +1,5 @@
 // add solution here
-var theBeatlesPlay = (musician, instrument) => {
+const theBeatlesPlay = (musician, instrument) => {
   let array = [];
   for (let i = 0; i < musician.length; i++) {
   array.push(`${musician[i]} plays ${instrument[i]}`);
@@ -8,7 +8,7 @@ var theBeatlesPlay = (musician, instrument) => {
 };
 
 
-var johnLennonFacts = (facts) => {
+const johnLennonFacts = (facts) => {
   let i = 0;
   let array = [];
   while (i < facts.length) {
