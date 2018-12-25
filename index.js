@@ -18,9 +18,10 @@ var johnLennonFacts = (facts) => {
   return array;
 };
 
+/*
 var iLoveTheBeatles = (num) = {
   var array = [];
 };
-
+*/
 
 
