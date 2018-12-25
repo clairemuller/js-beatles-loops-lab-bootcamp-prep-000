@@ -25,7 +25,7 @@ var iLoveTheBeatles = (num) = {
 */
 
 function iLoveTheBeatles(num) {
-  var array = [];
+  let array = [];
 }
 
 
