@@ -24,12 +24,12 @@ var iLoveTheBeatles = (num) = {
 };
 */
 
-function iLoveTheBeatles(num) {
+function iLoveTheBeatles(i) {
   let array = [];
   do {
     array.push("I love the Beatles!");
     i++;
-  } while (num < 15);
+  } while (i < 15);
 }
 
 
