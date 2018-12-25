@@ -1,11 +1,11 @@
 // add solution here
 
 function theBeatlesPlay(musician, instrument) {
-  let array = [];
+  let arr = [];
   for (let i = 0; i < musician.length; i++) {
-  array.push(`${musician[i]} plays ${instrument[i]}`);
+  arr.push(`${musician[i]} plays ${instrument[i]}`);
   }
-  return array;
+  return arr;
 }
 
 /*
