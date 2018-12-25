@@ -41,12 +41,12 @@ const johnLennonFacts = (facts) => {
 */
 
 function iLoveTheBeatles(i) {
-  let array = [];
+  let arr = [];
   do {
-    array.push("I love the Beatles!");
+    arr.push("I love the Beatles!");
     i++;
   } while (i < 15);
-  return array;
+  return arr;
 }
 
 
