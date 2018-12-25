@@ -18,12 +18,6 @@ const johnLennonFacts = (facts) => {
   return array;
 };
 
-/*
-var iLoveTheBeatles = (num) = {
-  var array = [];
-};
-*/
-
 function iLoveTheBeatles(i) {
   let array = [];
   do {
