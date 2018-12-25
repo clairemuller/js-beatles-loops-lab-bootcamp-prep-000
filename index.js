@@ -26,7 +26,7 @@ function johnLennonFacts(facts) {
     i++;
   }
   return array;
-};
+}
 
 /*
 const johnLennonFacts = (facts) => {
