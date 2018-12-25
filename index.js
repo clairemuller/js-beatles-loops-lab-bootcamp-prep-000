@@ -9,8 +9,8 @@ var theBeatlesPlay = (musician, instrument) => {
 
 
 var johnLennonFacts = (facts) => {
-  var i = 0;
-  var array = [];
+  let i = 0;
+  let array = [];
   while (i < facts.length) {
     array.push(`${facts[i]}!!!`);
     i++;
