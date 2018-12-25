@@ -27,8 +27,10 @@ var iLoveTheBeatles = (num) = {
 function iLoveTheBeatles(num) {
   let array = [];
   do {
-  code block to be executed;
-  } while (condition);
+    
+  } while {
+    
+  };
 }
 
 
