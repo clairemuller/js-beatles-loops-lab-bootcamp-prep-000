@@ -28,7 +28,7 @@ function iLoveTheBeatles(num) {
   let array = [];
   do {
     
-  } while 
+  } while ();
 }
 
 
